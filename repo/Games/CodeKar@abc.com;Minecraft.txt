@@ -1,0 +1,6 @@
+Minecraft offers an infinite, blocky world of creativity where you earn your own reward by mining the landscape to build whatever your heart desires.
+
+Across the spectrum of games, the enormously successful Minecraft both defines and dominates a category of its own. It has no story, no particular genre, no characters, no dramatic cutscenes, and graphics that could politely be called "retro." Instead, Minecraft lets you shape the blocky world around you with your digital hands, and has proved surprisingly compelling to a legion of fans. Because of its fun, creative play, and the creations it has inspired, it's an Editors' Choice and easily among the best PC games.
+
+Before You Begin
+Do you own an electronic device? It can probably run Minecraft. The game is currently available for $26.95 for PC, which I'll review here. Minecraft looks great on a high-end gaming PC, but the rest of us surely appreciate how well it performs on even a standard desktop computer. You can even play on a Raspberry Pi, if you're into that sort of thing. Each version of the game is slightly different, though the fundamentals are universal.
