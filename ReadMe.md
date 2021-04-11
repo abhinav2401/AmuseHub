@@ -28,12 +28,21 @@ thousands of different combinations possible
   
   
 ## Table of Contents:
+1.) It saves a lot of time.
+2.) Available things can be used to their fullest.
+3.) All the different things have been brought under a single roof to ensure a never-before-seen user experience.
+4.) You can search for recipes and activities with the ingredients and equipments available at your home.
+
 
 ## Technology Stack:
-  1) Node.JS
-  2) Google Collab
-  3) Javafx
-  4) Machine Learning
+1. Bootstrap
+2. Xampp
+3. JavaScript
+4. PHP
+5. CSS
+6. HTML
+7. MySQL
+
   
 
   ## Contributors:
