@@ -50,28 +50,28 @@ Team Name: CodeKar
 
 ## Screenshots
 <p align="center">
-  <img src="assets/img/start.png" width="350" title="Repository">
+  <img src="assets/start.png" width="350" title="Repository">
   </p>
   <p align="center">
-  <img src="assets/img/login.png" width="350" title="Login">
+  <img src="assets/login.png" width="350" title="Login">
 </p>
 <p align="center">
-  <img src="assets/img/signout.png" width="350" title="Upload">
+  <img src="assets/signout.png" width="350" title="Upload">
   </p>
   <p align="center">
-  <img src="assets/img/home.png" width="350" title="Login">
+  <img src="assets/home.png" width="350" title="Login">
 </p>
 <p align="center">
-  <img src="assets/img/forget.png" width="350" title="Login">
+  <img src="assets/forget.png" width="350" title="Login">
 </p>
 <p align="center">
-  <img src="assets/img/items.png" width="350" title="Login">
+  <img src="assets/items.png" width="350" title="Login">
 </p>
 <p align="center">
-  <img src="assets/img/rating.png" width="350" title="Login">
+  <img src="assets/rating.png" width="350" title="Login">
 </p>
 <p align="center">
-  <img src="assets/img/search.png" width="350" title="Login">
+  <img src="assets/search.png" width="350" title="Login">
 </p>
 
  
