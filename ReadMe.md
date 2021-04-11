@@ -1,4 +1,4 @@
-<h1 align="center">Hack36 Template Readme</h1>
+<h1 align="center">AmuseHub</h1>
 <p align="center">
 </p>
 
@@ -19,10 +19,12 @@ different activities like a movie while cooking and
 thousands of different combinations possible
   
 ## Demo Video Link:
-  <a href="https://youtu.be/WcTrIZ6_6bw">https://youtu.be/WcTrIZ6_6bw</a>
+
+[![Watch the video]<img src="assets/start.png" width="350" title="Upload">](https://youtu.be/WcTrIZ6_6bw)
+  
   
 ## Presentation Link:
-  <a href="https://docs.google.com/presentation/d/1NEbqpM6J6UkmHN_J6NsgOhKvDU6fkfnli4OIg1lh-pk/edit?usp=sharing"> ppt link here </a>
+  <a href="https://drive.google.com/file/d/1XkIJOPo7lT2wb-O2HZunc0dx68W_Locr/view?usp=sharing"> ppt link here </a>
   
   
 ## Table of Contents:
