@@ -50,7 +50,7 @@ thousands of different combinations possible
 Team Name: CodeKar
 
 * [Jyotirmay Jain](https://github.com/jyotirmay27)
-* [Parth Mittal](https://github.com/Parthtrap)
+* [ParthMittal](https://github.com/Parthtrap)
 * [Ujjwal Tyagi](https://github.com/ujjwaltyagi888)
 * [Abhinav Goel](https://github.com/abhinav2401)
 
