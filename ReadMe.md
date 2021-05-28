@@ -6,9 +6,7 @@
 
 
 ## Introduction:
-  We have created a solution in the form of
-Amusehub to the problem stated. We provide
-almost all content one may try to look for when
+  We at AmuseHub provide almost all content one may try to look for when
 wanting to do something creative or to kill some
 boredom. With the best recommendations and
 reviews, it is now a piece of cake to select the
