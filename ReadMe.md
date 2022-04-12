@@ -49,7 +49,7 @@ Team Name: CodeKar
 
 * [Jyotirmay Jain](https://github.com/jyotirmay27)
 * [Parth Mittal](https://github.com/Parthtrap)
-* [Ujjwal Tyagi](https://github.com/ujjwaltyagi888)
+* [Varnika hotwani](https://github.com/Varnika-Hotwani)
 * [Abhinav Goel](https://github.com/abhinav2401)
 
 
