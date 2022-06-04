@@ -17,7 +17,7 @@ like a movie while cooking and thousands of different combinations possible.
   
 ## Demo Video Link:
 
-[![Watch the video]<img src="assets/start.png" width="350" title="Upload">](https://youtu.be/WcTrIZ6_6bw)
+[![Watch the video]<br><br><img src="assets/start.png" width="350" title="Upload">](https://youtu.be/WcTrIZ6_6bw)
   
   
 ## Presentation Link:
