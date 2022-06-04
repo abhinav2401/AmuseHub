@@ -6,15 +6,14 @@
 
 
 ## Introduction:
-  We at AmuseHub provide almost all content one may try to look for when
-wanting to do something creative or to kill some
-boredom. With the best recommendations and
-reviews, it is now a piece of cake to select the
-best pick for yourself. We also provide a
-cu stomized search option to find the best you
-can do with available things. You can integrate
-different activities like a movie while cooking and
-thousands of different combinations possible
+  Bored and tired of this monotonous life? Want to unleash your creativity 
+and share your vision. We at AmuseHub provide almost all content one may 
+try to look for when wanting to do something creative or to kill some
+boredom. With the best recommendations and reviews, it is now a piece of cake 
+to select the best pick for yourself from so many different categories available. 
+We also provide a customized search option to find the best you can do with 
+the things available. You can integrate different fun and exciting activities 
+like a movie while cooking and thousands of different combinations possible.
   
 ## Demo Video Link:
 
